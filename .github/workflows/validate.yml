@@ -2,7 +2,7 @@ name: Publicar no Firebase Hosting
 
 on:
   push:
-    branches: [main]
+    branches: [main, master]
 
 jobs:
   build_and_deploy:
@@ -22,7 +22,6 @@ jobs:
           NEXT_PUBLIC_FIREBASE_API_KEY: ${{ secrets.NEXT_PUBLIC_FIREBASE_API_KEY }}
           NEXT_PUBLIC_FIREBASE_PROJECT_ID: ${{ secrets.NEXT_PUBLIC_FIREBASE_PROJECT_ID }}
 
-      # Garante que os arquivos compilados pelo Vite fiquem na raiz da pasta dist
       - run: |
           if [ -d "dist/client" ]; then cp -r dist/client/* dist/; fi
 
