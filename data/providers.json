@@ -1,0 +1,603 @@
+{
+  "1": [
+    "2TELECON"
+  ],
+  "2": [
+    "USE TELECOM"
+  ],
+  "3": [
+    "USE TELECOM"
+  ],
+  "4": [
+    "USE TELECOM"
+  ],
+  "5": [
+    "NETFSA"
+  ],
+  "6": [
+    "USE TELECOM"
+  ],
+  "7": [
+    "USE TELECOM"
+  ],
+  "8": [
+    "WI-NET"
+  ],
+  "9": [
+    "DE SÁ"
+  ],
+  "10": [
+    "USE TELECOM"
+  ],
+  "11": [
+    "WI-NET"
+  ],
+  "12": [
+    "BRISANET"
+  ],
+  "13": [
+    "BRISANET"
+  ],
+  "14": [
+    "WI-NET"
+  ],
+  "15": [
+    "NETFSA"
+  ],
+  "16": [
+    "NETFSA"
+  ],
+  "17": [
+    "USE TELECOM"
+  ],
+  "18": [
+    "PLUGAR TELECON"
+  ],
+  "19": [
+    "NETFSA"
+  ],
+  "20": [
+    "NETFSA"
+  ],
+  "21": [
+    "PLUGAR TELECON"
+  ],
+  "22": [
+    "NETFSA"
+  ],
+  "23": [
+    "WI-NET"
+  ],
+  "24": [
+    "DE SÁ"
+  ],
+  "25": [
+    "WI-NET"
+  ],
+  "26": [
+    "NETFSA"
+  ],
+  "27": [
+    "DE SÁ"
+  ],
+  "28": [
+    "BRISANET"
+  ],
+  "30": [
+    "USE TELECOM"
+  ],
+  "31": [
+    "WI-NET"
+  ],
+  "32": [
+    "RG NET TELECON"
+  ],
+  "34": [
+    "WI-NET"
+  ],
+  "35": [
+    "LINKNET"
+  ],
+  "36": [
+    "NETFSA"
+  ],
+  "37": [
+    "WI-NET"
+  ],
+  "38": [
+    "WI-NET"
+  ],
+  "39": [
+    "WI-NET"
+  ],
+  "40": [
+    "USE TELECOM"
+  ],
+  "41": [
+    "BRISANET"
+  ],
+  "42": [
+    "BRISANET"
+  ],
+  "43": [
+    "WI-NET"
+  ],
+  "44": [
+    "USE TELECOM"
+  ],
+  "45": [
+    "WI-NET"
+  ],
+  "46": [
+    "NETFSA"
+  ],
+  "47": [
+    "LINKNET"
+  ],
+  "48": [
+    "BRISANET"
+  ],
+  "49": [
+    "PLUGAR TELECON"
+  ],
+  "50": [
+    "PLUGAR TELECON",
+    "USE TELECOM"
+  ],
+  "52": [
+    "BRISANET"
+  ],
+  "53": [
+    "PLUGAR TELECON"
+  ],
+  "54": [
+    "NETFSA"
+  ],
+  "55": [
+    "NETFSA"
+  ],
+  "56": [
+    "LINKNET",
+    "PLUGAR TELECON"
+  ],
+  "57": [
+    "USE TELECOM"
+  ],
+  "58": [
+    "BRISANET",
+    "LINKNET"
+  ],
+  "59": [
+    "PLUGAR TELECON"
+  ],
+  "61": [
+    "NETFSA"
+  ],
+  "62": [
+    "NETFSA"
+  ],
+  "63": [
+    "BRISANET"
+  ],
+  "64": [
+    "USE TELECOM"
+  ],
+  "65": [
+    "BRISANET"
+  ],
+  "67": [
+    "WI-NET"
+  ],
+  "68": [
+    "LINKNET"
+  ],
+  "69": [
+    "NETFSA"
+  ],
+  "70": [
+    "BRISANET"
+  ],
+  "71": [
+    "PLUGAR TELECON"
+  ],
+  "72": [
+    "NETFSA"
+  ],
+  "73": [
+    "BRISANET"
+  ],
+  "74": [
+    "LINKNET"
+  ],
+  "75": [
+    "USE TELECOM"
+  ],
+  "76": [
+    "USE TELECOM"
+  ],
+  "77": [
+    "USE TELECOM"
+  ],
+  "78": [
+    "DE SÁ"
+  ],
+  "80": [
+    "NETFSA"
+  ],
+  "81": [
+    "USE TELECOM"
+  ],
+  "82": [
+    "USE TELECOM"
+  ],
+  "84": [
+    "NETFSA",
+    "USE TELECOM"
+  ],
+  "85": [
+    "PLUGAR TELECON"
+  ],
+  "86": [
+    "NETFSA"
+  ],
+  "87": [
+    "PLUGAR TELECON"
+  ],
+  "88": [
+    "PLUGAR TELECON"
+  ],
+  "89": [
+    "WI-NET"
+  ],
+  "90": [
+    "WI-NET"
+  ],
+  "91": [
+    "NETFSA"
+  ],
+  "92": [
+    "PLUGAR TELECON"
+  ],
+  "94": [
+    "LINKNET"
+  ],
+  "95": [
+    "USE TELECOM"
+  ],
+  "96": [
+    "USE TELECOM"
+  ],
+  "97": [
+    "NETFSA"
+  ],
+  "98": [
+    "USE TELECOM"
+  ],
+  "99": [
+    "USE TELECOM"
+  ],
+  "100": [
+    "PLUGAR TELECON"
+  ],
+  "101": [
+    "DE SÁ"
+  ],
+  "103": [
+    "BRISANET"
+  ],
+  "104": [
+    "BRISANET"
+  ],
+  "105": [
+    "USE TELECOM"
+  ],
+  "106": [
+    "NETFSA"
+  ],
+  "107": [
+    "LINKNET"
+  ],
+  "108": [
+    "BRISANET"
+  ],
+  "109": [
+    "WI-NET"
+  ],
+  "110": [
+    "USE TELECOM"
+  ],
+  "111": [
+    "NETFSA"
+  ],
+  "112": [
+    "USE TELECOM"
+  ],
+  "113": [
+    "LINKNET"
+  ],
+  "114": [
+    "USE TELECOM"
+  ],
+  "115": [
+    "NETFSA"
+  ],
+  "116": [
+    "USE TELECOM"
+  ],
+  "117": [
+    "USE TELECOM"
+  ],
+  "118": [
+    "BRISANET"
+  ],
+  "119": [
+    "NETFSA"
+  ],
+  "120": [
+    "LINKNET"
+  ],
+  "121": [
+    "WI-NET"
+  ],
+  "122": [
+    "BRISANET"
+  ],
+  "123": [
+    "BRISANET"
+  ],
+  "124": [
+    "USE TELECOM"
+  ],
+  "125": [
+    "DE SÁ"
+  ],
+  "126": [
+    "WI-NET"
+  ],
+  "127": [
+    "BRISANET"
+  ],
+  "128": [
+    "NETFSA"
+  ],
+  "129": [
+    "BRISANET"
+  ],
+  "130": [
+    "WI-NET"
+  ],
+  "131": [
+    "NETFSA"
+  ],
+  "132": [
+    "LINKNET"
+  ],
+  "134": [
+    "RG NET TELECON"
+  ],
+  "135": [
+    "WI-NET"
+  ],
+  "136": [
+    "NETFSA"
+  ],
+  "137": [
+    "LINKNET"
+  ],
+  "143": [
+    "NETFSA"
+  ],
+  "150": [
+    "WI-NET"
+  ],
+  "159": [
+    "WI-NET"
+  ],
+  "160": [
+    "USE TELECOM"
+  ],
+  "161": [
+    "NETFSA"
+  ],
+  "162": [
+    "NETFSA"
+  ],
+  "163": [
+    "WI-NET"
+  ],
+  "164": [
+    "USE TELECOM"
+  ],
+  "165": [
+    "WI-NET"
+  ],
+  "166": [
+    "NETFSA"
+  ],
+  "167": [
+    "WI-NET"
+  ],
+  "169": [
+    "USE TELECOM"
+  ],
+  "172": [
+    "NETFSA",
+    "WI-NET"
+  ],
+  "173": [
+    "NETFSA"
+  ],
+  "174": [
+    "PLUGAR TELECON"
+  ],
+  "175": [
+    "WI-NET"
+  ],
+  "177": [
+    "USE TELECOM"
+  ],
+  "179": [
+    "PLUGAR TELECON"
+  ],
+  "180": [
+    "DE SÁ"
+  ],
+  "183": [
+    "WI-NET"
+  ],
+  "184": [
+    "USE TELECOM"
+  ],
+  "186": [
+    "RG NET TELECON"
+  ],
+  "187": [
+    "PLUGAR TELECON"
+  ],
+  "188": [
+    "LINKNET"
+  ],
+  "189": [
+    "NETFSA"
+  ],
+  "190": [
+    "NETFSA"
+  ],
+  "191": [
+    "USE TELECOM"
+  ],
+  "192": [
+    "BRISANET"
+  ],
+  "193": [
+    "NETFSA"
+  ],
+  "194": [
+    "NETFSA"
+  ],
+  "195": [
+    "USE TELECOM"
+  ],
+  "196": [
+    "WI-NET"
+  ],
+  "197": [
+    "PLUGAR TELECON"
+  ],
+  "198": [
+    "PLUGAR TELECON"
+  ],
+  "199": [
+    "LINKNET"
+  ],
+  "200": [
+    "PLUGAR TELECON"
+  ],
+  "201": [
+    "DE SÁ"
+  ],
+  "202": [
+    "NETFSA"
+  ],
+  "203": [
+    "PLUGAR TELECON"
+  ],
+  "204": [
+    "NETFSA"
+  ],
+  "205": [
+    "NETFSA"
+  ],
+  "206": [
+    "RG NET TELECON"
+  ],
+  "207": [
+    "RG NET TELECON"
+  ],
+  "208": [
+    "RG NET TELECON"
+  ],
+  "209": [
+    "PLUGAR TELECON"
+  ],
+  "210": [
+    "PLUGAR TELECON"
+  ],
+  "211": [
+    "PLUGAR TELECON"
+  ],
+  "213": [
+    "RG NET TELECON"
+  ],
+  "214": [
+    "NETFSA"
+  ],
+  "215": [
+    "WI-NET"
+  ],
+  "216": [
+    "PLUGAR TELECON"
+  ],
+  "218": [
+    "DE SÁ"
+  ],
+  "219": [
+    "PLUGAR TELECON"
+  ],
+  "220": [
+    "RG NET TELECON"
+  ],
+  "221": [
+    "WI-NET"
+  ],
+  "222": [
+    "WI-NET"
+  ],
+  "223": [
+    "NETFSA"
+  ],
+  "224": [
+    "NETFSA"
+  ],
+  "225": [
+    "USE TELECOM"
+  ],
+  "29": [],
+  "33": [],
+  "133": [],
+  "60": [],
+  "66": [],
+  "79": [],
+  "83": [],
+  "93": [],
+  "102": [],
+  "138": [],
+  "139": [],
+  "168": [],
+  "170": [],
+  "171": [],
+  "176": [],
+  "178": [],
+  "181": [],
+  "182": [],
+  "185": [],
+  "212": [],
+  "217": [],
+  "140": [],
+  "141": [],
+  "142": [],
+  "144": [],
+  "145": [],
+  "146": [],
+  "147": [],
+  "148": [],
+  "149": [],
+  "151": [],
+  "152": [],
+  "153": [],
+  "154": [],
+  "155": [],
+  "156": [],
+  "157": [],
+  "158": []
+}

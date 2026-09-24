@@ -1,0 +1,1812 @@
+[
+  {
+    "schoolId": 1,
+    "account": "3562",
+    "school": "CIEM JOSELITO AMORIM",
+    "address": "R. Cel. Álvaro Simões, Centro",
+    "provider": "2TELECON",
+    "sourceName": "Escola Mun. Jopselito Falcão de Amorim",
+    "matchMethod": "Nome compatível revisado",
+    "matchScore": 0.99
+  },
+  {
+    "schoolId": 2,
+    "account": "3498",
+    "school": "CMEI AGNALDO FERREIRA MACHADO MARQUES",
+    "address": "R. D - Campo Limpo, Feira de Santana - BA, 44034-265",
+    "provider": "USE TELECOM",
+    "sourceName": "3498 - CEMEI Agnaldo Ferreira Marques",
+    "matchMethod": "Número de Conta",
+    "matchScore": 1
+  },
+  {
+    "schoolId": 3,
+    "account": "3302",
+    "school": "CMEI ANTONIO CARLOS MACHADO",
+    "address": "Av. Dois – Tomba, CEP 44091-620",
+    "provider": "USE TELECOM",
+    "sourceName": "3302 - CEMEI Antonio Carlos Machado",
+    "matchMethod": "Número de Conta",
+    "matchScore": 1
+  },
+  {
+    "schoolId": 4,
+    "account": "3474",
+    "school": "CMEI CARLOS MARINHO FALCAO",
+    "address": "Rua Adamantina, Alto do Papagaio. 44055-002",
+    "provider": "USE TELECOM",
+    "sourceName": "3474 - Escola Municipal Carlos Marinho Falcão",
+    "matchMethod": "Número de Conta",
+    "matchScore": 1
+  },
+  {
+    "schoolId": 5,
+    "account": "3331",
+    "school": "CMEI EDUARDO DA SILVA PESSOA DE MIRANDA",
+    "address": "R. Nilo Peçanha, 133 - Tomba",
+    "provider": "NETFSA",
+    "sourceName": "Escola Municipal Eduardo da Silva Pessoa Miranda",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 0.796
+  },
+  {
+    "schoolId": 6,
+    "account": "3319",
+    "school": "CMEI FADA MADRINHA",
+    "address": "R. Colinas - Tomba, Panorama - BA, 44010-100",
+    "provider": "USE TELECOM",
+    "sourceName": "3319 - Escola Mun. Fada Madrinha",
+    "matchMethod": "Número de Conta",
+    "matchScore": 1
+  },
+  {
+    "schoolId": 7,
+    "account": "3387",
+    "school": "CMEI JOAO SERAFIM DE LIMA",
+    "address": "R. Parque Antártica - Parque Ipe",
+    "provider": "USE TELECOM",
+    "sourceName": "3387 - Escola Mun. João Serafim de Lima",
+    "matchMethod": "Número de Conta",
+    "matchScore": 1
+  },
+  {
+    "schoolId": 8,
+    "account": "3340",
+    "school": "CMEI NEUSA DOS SANTOS BRASILEIRO",
+    "address": "Via Pedestre II, 150 - Viveiros,",
+    "provider": "WI-NET",
+    "sourceName": "Escola Municipal Neusa Dos Santos Brasileiro",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 1
+  },
+  {
+    "schoolId": 9,
+    "account": "3388",
+    "school": "CMEI PAULINO MARTINS DOS SANTOS",
+    "address": "Primeira Travessa Arthur Alves de Freitas",
+    "provider": "DE SÁ",
+    "sourceName": "Escola Municipal Paulino Martins Dos Santos",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 1
+  },
+  {
+    "schoolId": 10,
+    "account": "3347",
+    "school": "CMEI PAULO ALMEIDA CORDEIRO",
+    "address": "R. Lauro de Freitas, 201 - Novo Horizonte",
+    "provider": "USE TELECOM",
+    "sourceName": "3347 - Escola Mun. Paulo Almeida Cordeiro",
+    "matchMethod": "Número de Conta",
+    "matchScore": 1
+  },
+  {
+    "schoolId": 11,
+    "account": "3538",
+    "school": "CMEI PROFESSORA ALMIRA OLIVEIRA SANTOS",
+    "address": "R. A , 24 - Conceição",
+    "provider": "WI-NET",
+    "sourceName": "Escola Municipal Almira Oliveira Santos",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 1
+  },
+  {
+    "schoolId": 12,
+    "account": "3568",
+    "school": "CMEI PROFESSORA CACILDA MIRANDA CERQUEIRA",
+    "address": "R. Heráclito Dias de Carvalho - Asa Branca,",
+    "provider": "BRISANET",
+    "sourceName": "Escola Municipal Cacilda Miranda",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 0.732
+  },
+  {
+    "schoolId": 13,
+    "account": "3238",
+    "school": "CMEI THEREZINHA PEREIRA PITOMBO",
+    "address": "Av. Asa Branca, 1056 - Asa Branca,",
+    "provider": "BRISANET",
+    "sourceName": "Escola Municipal Therezinha Pereira Pitombo",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 1
+  },
+  {
+    "schoolId": 14,
+    "account": "3563",
+    "school": "CMEI VANDA PINHEIRO FRANCO",
+    "address": "R. A 1 Lot Dom, R. Cassiano Ricardo, 539 - 35º BI,",
+    "provider": "WI-NET",
+    "sourceName": "Escola Municipal Vanda Pinheiro Franco",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 1
+  },
+  {
+    "schoolId": 15,
+    "account": "3470",
+    "school": "CRECHE DAGMAR SILVA DA A. DE P. HUMANA",
+    "address": "R. Petronílio Pinto - Baraúnas",
+    "provider": "NETFSA",
+    "sourceName": "Escola Municipal Dagmar Silva",
+    "matchMethod": "Nome compatível revisado",
+    "matchScore": 0.99
+  },
+  {
+    "schoolId": 16,
+    "account": "3337",
+    "school": "CRECHE VOVO MARTA",
+    "address": "Rua Jussara, n50 Pedra do Descanso",
+    "provider": "NETFSA",
+    "sourceName": "Escola Municipal Vovo Marta",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 0.728
+  },
+  {
+    "schoolId": 17,
+    "account": "3328",
+    "school": "E. ALLAN KARDEC",
+    "address": "Rua Caravelas, nº 377 – Jardim Acácia",
+    "provider": "USE TELECOM",
+    "sourceName": "3328 - Escola Mun. Allan Kardec",
+    "matchMethod": "Número de Conta",
+    "matchScore": 1
+  },
+  {
+    "schoolId": 18,
+    "account": "3237",
+    "school": "E. CÍVICO MILITAR M. QUINZE DE NOVEMBRO",
+    "address": "Rua Martiniani Freire - Jaiba",
+    "provider": "PLUGAR TELECON",
+    "sourceName": "Escola Mun. Civico Militar 15 de novembro",
+    "matchMethod": "Nome compatível revisado",
+    "matchScore": 0.99
+  },
+  {
+    "schoolId": 19,
+    "account": "3383",
+    "school": "E. M. ADELICE CAVALCANTE",
+    "address": "R. Indaiatuba, 50 - Sim,",
+    "provider": "NETFSA",
+    "sourceName": "Escola Municipal Adelice Cavalcante",
+    "matchMethod": "Nome compatível revisado",
+    "matchScore": 0.99
+  },
+  {
+    "schoolId": 20,
+    "account": "3466",
+    "school": "E. M. ADENIL DA COSTA FALCAO",
+    "address": "Rua Lopes Rodrigues, 468 - Brasília,",
+    "provider": "NETFSA",
+    "sourceName": "Escola Mun. Adenil da Costa Falcão",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 0.795
+  },
+  {
+    "schoolId": 21,
+    "account": "3380",
+    "school": "E. M. ALVARO PEREIRA BOAVENTURA",
+    "address": "R. Sóstenes de Carvalho, 1 - Distrito Bonfim",
+    "provider": "PLUGAR TELECON",
+    "sourceName": "Escola Mun. Álvaro Pereira Boaventura",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 0.764
+  },
+  {
+    "schoolId": 22,
+    "account": "3449",
+    "school": "E. M. ANA BRANDOA",
+    "address": "R. do Salvador - Tomba,",
+    "provider": "NETFSA",
+    "sourceName": "Escola Municipal Ana Brandoa",
+    "matchMethod": "Nome compatível revisado",
+    "matchScore": 0.99
+  },
+  {
+    "schoolId": 23,
+    "account": "3429",
+    "school": "E. M. ANTONIO BRANDAO DE SOUZA",
+    "address": "R. do Bambuzal, 150 - Humildes",
+    "provider": "WI-NET",
+    "sourceName": "Escola Municipal Antonio Brandão de Souza",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 0.797
+  },
+  {
+    "schoolId": 24,
+    "account": "3390",
+    "school": "E. M. ARTHUR MARTINS DA SILVA",
+    "address": "Fazenda Pedra Ferrada Distrito - Maria Quitéria,",
+    "provider": "DE SÁ",
+    "sourceName": "Escola Municipal Arthur Martins da Silva",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 0.796
+  },
+  {
+    "schoolId": 25,
+    "account": "3434",
+    "school": "E. M. CANDIDO VITORIANO DE CERQUEIRA",
+    "address": "Fazenda Escoval Distrito De Humildes",
+    "provider": "WI-NET",
+    "sourceName": "Escola Municipal Candido Vitoriano de Cerqueira",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 0.803
+  },
+  {
+    "schoolId": 26,
+    "account": "3423",
+    "school": "E. M. CARLOS ALBERTO DO CARMO",
+    "address": "R. Principal A - Calumbi,",
+    "provider": "NETFSA",
+    "sourceName": "Escola Municipal Carlos Alberto do Carmo",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 0.796
+  },
+  {
+    "schoolId": 27,
+    "account": "3405",
+    "school": "E. M. DR. FRANCISCO MARTINS DA SILVA",
+    "address": "Avenida - Distrito Maria Quiteria, Pé de Serra - BA,",
+    "provider": "DE SÁ",
+    "sourceName": "Escola Municipal Doutor Francisco Martins da Silva",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 0.8
+  },
+  {
+    "schoolId": 28,
+    "account": "3322",
+    "school": "E. M. ELIZABETH JOHNSON",
+    "address": "R. Liberdade - Baraúnas,",
+    "provider": "BRISANET",
+    "sourceName": "Escola Municipal Elizabeth Johnson",
+    "matchMethod": "Nome compatível revisado",
+    "matchScore": 0.99
+  },
+  {
+    "schoolId": 30,
+    "account": "3414",
+    "school": "E. M. FLORENCIO ALVES BISPO",
+    "address": "Povoado Candeia Grossa Distrito De Matinha - Matinha, - BA, 44140-000",
+    "provider": "USE TELECOM",
+    "sourceName": "3414 - Escola Municipal Florencio Alves Bispo",
+    "matchMethod": "Número de Conta",
+    "matchScore": 1
+  },
+  {
+    "schoolId": 31,
+    "account": "3306",
+    "school": "E. M. GERALDO DIAS DE SOUZA",
+    "address": "Loteamento Agnelo Costa Distrito De, R. Humildes,",
+    "provider": "WI-NET",
+    "sourceName": "Escola Municipal Geraldo Dias de Souza",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 0.794
+  },
+  {
+    "schoolId": 34,
+    "account": "3233",
+    "school": "E. M. JOAO BARBOSA CARVALHO",
+    "address": "R. Farmacêutico José Alves, 484 - Centro",
+    "provider": "WI-NET",
+    "sourceName": "Escola Mun. Joao Barbosa De Carvalho",
+    "matchMethod": "Nome compatível revisado",
+    "matchScore": 0.99
+  },
+  {
+    "schoolId": 35,
+    "account": "3557",
+    "school": "E. M. JOAO DA ESCOCIA",
+    "address": "Avenida Maria Quiteroa, 2836",
+    "provider": "LINKNET",
+    "sourceName": "Escola Mun. São João da Escocia",
+    "matchMethod": "Nome compatível revisado",
+    "matchScore": 0.99
+  },
+  {
+    "schoolId": 36,
+    "account": "3335",
+    "school": "E. M. JOAO MACARIO ATAIDE",
+    "address": "R. Púrpura, 31 - Conceição",
+    "provider": "NETFSA",
+    "sourceName": "Escola Municipal João Macário de Ataíde",
+    "matchMethod": "Nome compatível revisado",
+    "matchScore": 0.99
+  },
+  {
+    "schoolId": 37,
+    "account": "3297",
+    "school": "E. M. LIDICE ANTUNES",
+    "address": "R. Chana, 100 - Santo Antônio dos Prazeres,",
+    "provider": "WI-NET",
+    "sourceName": "Escola Municipal Lidice Antunes",
+    "matchMethod": "Nome compatível revisado",
+    "matchScore": 0.99
+  },
+  {
+    "schoolId": 38,
+    "account": "3344",
+    "school": "E. M. MARGARIDA BRITO DE OLIVEIRA",
+    "address": "Rua Cravos, nº 148 - Centro Industrial, 44024-318",
+    "provider": "WI-NET",
+    "sourceName": "Escola Mun. Margarida Brito de Oliveira",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 0.8
+  },
+  {
+    "schoolId": 39,
+    "account": "3386",
+    "school": "E. M. MARIA DO CARMO GOES",
+    "address": "Fazenda Fulo Distrito De, R. Humildes,",
+    "provider": "WI-NET",
+    "sourceName": "Escola Municipal Maria do Carmo Goes",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 0.79
+  },
+  {
+    "schoolId": 40,
+    "account": "3202",
+    "school": "E. M. NORMA SUELY MASCARENHAS",
+    "address": "R. Vasp, s/n - Campo Limpo, Feira de Santana - BA, 44033-061",
+    "provider": "USE TELECOM",
+    "sourceName": "3202 - Escola Muni Norma Suely Mascarenhas",
+    "matchMethod": "Número de Conta",
+    "matchScore": 1
+  },
+  {
+    "schoolId": 41,
+    "account": "3559",
+    "school": "E. M. NOSSA SENHORA DO ROSARIO",
+    "address": "Rua Dom Silverio - Dist. Jaiba",
+    "provider": "BRISANET",
+    "sourceName": "Escola Municipal Nossa Senhora do Rosario",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 0.797
+  },
+  {
+    "schoolId": 42,
+    "account": "3289",
+    "school": "E. M. OTAVIANO FERREIRA CAMPOS",
+    "address": "Novo Horizonte, Feira de Santana",
+    "provider": "BRISANET",
+    "sourceName": "Escola Municipal Otaviano Ferreira Campos",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 0.763
+  },
+  {
+    "schoolId": 43,
+    "account": "3372",
+    "school": "E. M. PROF JACYRA ALMEIDA SANTOS",
+    "address": "R. C - Calumbi,",
+    "provider": "WI-NET",
+    "sourceName": "Escola Municipal Jacira Almeida Santos",
+    "matchMethod": "Nome compatível revisado",
+    "matchScore": 0.99
+  },
+  {
+    "schoolId": 44,
+    "account": "3295",
+    "school": "E. M. PROF. EMILIANA SOUZA OLIVEIRA",
+    "address": "R. Mantenópolis - Conceição, Feira de Santana - BA, 44010-100",
+    "provider": "USE TELECOM",
+    "sourceName": "3295 - Escola Mun. Emiliana Souza Oliveira",
+    "matchMethod": "Número de Conta",
+    "matchScore": 1
+  },
+  {
+    "schoolId": 45,
+    "account": "3320",
+    "school": "E. M. PROF. JOSENITA NERY BOAVENTURA",
+    "address": "Rua Angelo Fernandes, n 25-  Aviario",
+    "provider": "WI-NET",
+    "sourceName": "Escola Municipal Josenita Nery Boaventura",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 0.763
+  },
+  {
+    "schoolId": 46,
+    "account": "3343",
+    "school": "E. M. PROF. LAURA RIBEIRO LOPES",
+    "address": "Caminho 34, 12 - Tomba,",
+    "provider": "NETFSA",
+    "sourceName": "Escola Municipal Professora Laura Ribeiro Lopes",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 0.756
+  },
+  {
+    "schoolId": 47,
+    "account": "3296",
+    "school": "E. M. PROF. LUCIANO RIBEIRO SANTOS",
+    "address": "Avenida Periferica, Lagoa Salgada",
+    "provider": "LINKNET",
+    "sourceName": "Escola Mun. Luciano Ribeiro Santos",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 0.76
+  },
+  {
+    "schoolId": 48,
+    "account": "3373",
+    "school": "E. M. PROF. MARILIA QUEIROZ SILVA",
+    "address": "R. Tafe - Nova Esperança",
+    "provider": "BRISANET",
+    "sourceName": "Escola Municipal Prof. Marilia Queiroz Silva",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 0.759
+  },
+  {
+    "schoolId": 49,
+    "account": "3556",
+    "school": "E. M. QUILOMBOLA LUIZ PEREIRA DOS SANTOS",
+    "address": "Fazenda Lagoa Grande - Mª Quiteria",
+    "provider": "PLUGAR TELECON",
+    "sourceName": "Escola Mun. Quilombola Luiz P. dos Santos",
+    "matchMethod": "Nome compatível revisado",
+    "matchScore": 0.99
+  },
+  {
+    "schoolId": 50,
+    "account": "3418",
+    "school": "E. M. ROSA MARIA ESPERIDIAO LEITE",
+    "address": "Avenida Anizio Pereira Bernardes — Dist. Matinha, Feira de Santana–BA,",
+    "provider": "USE TELECOM",
+    "sourceName": "3418 - Escola Mun. Rosa Maria Esperidiao Leite",
+    "matchMethod": "Número de Conta",
+    "matchScore": 1
+  },
+  {
+    "schoolId": 52,
+    "account": "3225",
+    "school": "E. M. SAO FRANCISCO DE ASSIS",
+    "address": "Fazenda Registro - Dist. Jaiba",
+    "provider": "BRISANET",
+    "sourceName": "Escola Municipal São Francisco de Assis",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 0.795
+  },
+  {
+    "schoolId": 53,
+    "account": "3314",
+    "school": "E. M. SONIA VIEIRA RAMOS LIMA",
+    "address": "Fazenda Tapera 1, Dist. Jaiba",
+    "provider": "PLUGAR TELECON",
+    "sourceName": "Escola Mun. Sonia Vieira Ramos Lima",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 0.796
+  },
+  {
+    "schoolId": 54,
+    "account": "3376",
+    "school": "E. M. THEODULO BASTOS DE CARVALHO JUNIOR",
+    "address": "Rua José do Carmo",
+    "provider": "NETFSA",
+    "sourceName": "Escola Municipal Theodulo Bastos Junior",
+    "matchMethod": "Nome compatível revisado",
+    "matchScore": 0.99
+  },
+  {
+    "schoolId": 55,
+    "account": "3325",
+    "school": "E. M. VALDEMIRA ALVES BRITO",
+    "address": "Rua Vespaziano - Tomba,",
+    "provider": "NETFSA",
+    "sourceName": "Escola Municipal Valdemira Alves Brito",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 0.759
+  },
+  {
+    "schoolId": 56,
+    "account": "3471",
+    "school": "E. M. VEREADOR ANTONIO CARLOS COELHO",
+    "address": "R. Estiva - Jaíba,",
+    "provider": "PLUGAR TELECON",
+    "sourceName": "Escola Mun. Vereador Antonio Carlos Coelho",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 0.803
+  },
+  {
+    "schoolId": 57,
+    "account": "3221",
+    "school": "E. PADRE GIOVANNI CIRESOLA",
+    "address": "Rua Carlos Alberto, 514 - Cidade Nova, Feira de Santana - BA, 44053-274",
+    "provider": "USE TELECOM",
+    "sourceName": "3221 - Escola Mun. Padre Giovane Ciresola",
+    "matchMethod": "Número de Conta",
+    "matchScore": 1
+  },
+  {
+    "schoolId": 58,
+    "account": "3394",
+    "school": "E. T. I. MAE DA PROVIDENCIA",
+    "address": "Rua Barra dos Bandeirantes, 890 - Mangabeira",
+    "provider": "BRISANET",
+    "sourceName": "Escola Municipal Mae da Providencia",
+    "matchMethod": "Nome compatível revisado",
+    "matchScore": 0.99
+  },
+  {
+    "schoolId": 59,
+    "account": "3382",
+    "school": "E. VALDETE MAIA DA ASSOCIACAO",
+    "address": "Rua Ipiuna -  Sitio Novo",
+    "provider": "PLUGAR TELECON",
+    "sourceName": "Escola Mun. Valdete Maia",
+    "matchMethod": "Nome compatível revisado",
+    "matchScore": 0.99
+  },
+  {
+    "schoolId": 61,
+    "account": "3309",
+    "school": "E.M MARIA ANTONIA COSTA",
+    "address": "R. Rio Madeira - Santa Monica",
+    "provider": "NETFSA",
+    "sourceName": "Escola Municipal Maria Antonia da Costa",
+    "matchMethod": "Nome compatível revisado",
+    "matchScore": 0.99
+  },
+  {
+    "schoolId": 62,
+    "account": "3232",
+    "school": "E.M REITOR EDGAR SANTOS",
+    "address": "Caminho Dezesseis, S/N - Tomba,",
+    "provider": "NETFSA",
+    "sourceName": "Escola Mun. Reitor Edgar Santos",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 0.756
+  },
+  {
+    "schoolId": 63,
+    "account": "3439",
+    "school": "E.M. AFAS / FABIOLA VITAL",
+    "address": "R. Jorge Cerqueira Mascarenhas, 434 - Campo Limpo",
+    "provider": "BRISANET",
+    "sourceName": "Escola Estadual Fabiola Vital / AFAS",
+    "matchMethod": "Nome compatível revisado",
+    "matchScore": 0.99
+  },
+  {
+    "schoolId": 64,
+    "account": "3357",
+    "school": "E.M. ALMIRA PEREIRA LAGO",
+    "address": "Loteamento Nobel - Quadra B - Campo do Gado Novo, BA, 44010-100",
+    "provider": "USE TELECOM",
+    "sourceName": "3357 - Escola Mun. Almira Pereira Lago",
+    "matchMethod": "Número de Conta",
+    "matchScore": 1
+  },
+  {
+    "schoolId": 65,
+    "account": "3384",
+    "school": "E.M. AMBROSIO BISPO DE ARAUJO",
+    "address": "Fazenda Retiro - Dist. Jaiba",
+    "provider": "BRISANET",
+    "sourceName": "Escola Municipal Ambrosio Bispo de Araujo",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 0.797
+  },
+  {
+    "schoolId": 67,
+    "account": "3291",
+    "school": "E.M. ANTONIO ANTUNES DOS SANTOS",
+    "address": "Fazenda, Estr. de Terra Dura - Distrito De Humildes",
+    "provider": "WI-NET",
+    "sourceName": "Escola Municipal Antônio Antunes Dos Santos",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 0.8
+  },
+  {
+    "schoolId": 68,
+    "account": "3304",
+    "school": "E.M. ANTONIO CARLOS PINTO DE ALMEIDA",
+    "address": "Rua A, Papagaio",
+    "provider": "LINKNET",
+    "sourceName": "Escola Mun. Antonio Carlos Pinto de Almeida",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 0.828
+  },
+  {
+    "schoolId": 69,
+    "account": "3318",
+    "school": "E.M. ANTONIO GONÇALVES DA SILVA",
+    "address": "R. Tijuca, 1355 - Parque Ipe,",
+    "provider": "NETFSA",
+    "sourceName": "Escola Municipal Antonio Goncalves da Silva",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 0.8
+  },
+  {
+    "schoolId": 70,
+    "account": "3436",
+    "school": "E.M. CHICO MENDES",
+    "address": "Praça Centenário - Campo Limpo,",
+    "provider": "BRISANET",
+    "sourceName": "Escola Municipal Chico Mendes",
+    "matchMethod": "Nome compatível revisado",
+    "matchScore": 0.99
+  },
+  {
+    "schoolId": 71,
+    "account": "3379",
+    "school": "E.M. DA AMIZADE",
+    "address": "Br324 - Km100 Distrito De, R. Humildes,",
+    "provider": "PLUGAR TELECON",
+    "sourceName": "Escola Mun. Escola da amizade",
+    "matchMethod": "Nome compatível revisado",
+    "matchScore": 0.99
+  },
+  {
+    "schoolId": 72,
+    "account": "3222",
+    "school": "E.M. DIVA MATOS PORTELA",
+    "address": "R. Esplanada - Jardim Cruzeiro,",
+    "provider": "NETFSA",
+    "sourceName": "Escola Municipal Diva Matos Portela",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 0.754
+  },
+  {
+    "schoolId": 73,
+    "account": "3392",
+    "school": "E.M. DOCE LAR DA CRIANÇA",
+    "address": "Rua Barra dos Bandeirantes, 396 - Cidade Nova",
+    "provider": "BRISANET",
+    "sourceName": "Escola Municipal Doce Lar da Criança",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 0.79
+  },
+  {
+    "schoolId": 74,
+    "account": "3566",
+    "school": "E.M. EDUARDO FRÓES DA MOTA",
+    "address": "Rua Comandante Almiro 379",
+    "provider": "LINKNET",
+    "sourceName": "Escola Municipal Eduardo Fróes da Motta",
+    "matchMethod": "Nome compatível revisado",
+    "matchScore": 0.99
+  },
+  {
+    "schoolId": 75,
+    "account": "3393",
+    "school": "E.M. ESTER DA SILVA SANTANA",
+    "address": "Rua Tupinambás, S/N - Mangabeira, Feira de Santana - BA, 44051-224",
+    "provider": "USE TELECOM",
+    "sourceName": "3393 - Escola Mun. Ester da Silva Santana",
+    "matchMethod": "Número de Conta",
+    "matchScore": 1
+  },
+  {
+    "schoolId": 76,
+    "account": "3438",
+    "school": "E.M. FRANCY BARBOSA DA SILVA",
+    "address": "Rua D (Cj M Gomes) - Queimadinha, Feira de Santana",
+    "provider": "USE TELECOM",
+    "sourceName": "3438 - Escola Mun. Francy Silva Barbosa",
+    "matchMethod": "Número de Conta",
+    "matchScore": 1
+  },
+  {
+    "schoolId": 77,
+    "account": "3351",
+    "school": "E.M. GEMINIANO COSTA",
+    "address": "Tv. Mantina, 1668 - Pampalona, - BA, 44031-355",
+    "provider": "USE TELECOM",
+    "sourceName": "3351 - Escola Mun. Germiniano Costa",
+    "matchMethod": "Número de Conta",
+    "matchScore": 1
+  },
+  {
+    "schoolId": 78,
+    "account": "3473",
+    "school": "E.M GODOFREDO COUTINHO PEREIRA",
+    "address": "Fazenda Ladeira - Dist Tiquaruçu",
+    "provider": "DE SÁ",
+    "sourceName": "Escola Municipal Godofredo Coutinho Pereira",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 0.765
+  },
+  {
+    "schoolId": 80,
+    "account": "3236",
+    "school": "E.M. ILDES FERREIRA DE OLIVEIRA",
+    "address": "Rua C LOT - Asa Branca,",
+    "provider": "NETFSA",
+    "sourceName": "Escola Municipal Professor Ildes Ferreira de Oliveira",
+    "matchMethod": "Nome compatível revisado",
+    "matchScore": 0.99
+  },
+  {
+    "schoolId": 81,
+    "account": "3409",
+    "school": "E.M. IZIDRO ALVES DE JESUS",
+    "address": "Povoado De Alecrim Miúdo — Matinha, BA, 44115-000",
+    "provider": "USE TELECOM",
+    "sourceName": "3409 - Escola Mun. Izidro Alves de Jesus",
+    "matchMethod": "Número de Conta",
+    "matchScore": 1
+  },
+  {
+    "schoolId": 82,
+    "account": "3201",
+    "school": "E.M. JANETE GOMES MEDEIROS",
+    "address": "Ronaldo, Bairro - R. Tôrres, Cj Jose - Campo Limpo, Feira de Santana - BA",
+    "provider": "USE TELECOM",
+    "sourceName": "3201 - Escola Mun Prof Janete Gomes Medeiros",
+    "matchMethod": "Número de Conta",
+    "matchScore": 1
+  },
+  {
+    "schoolId": 84,
+    "account": "3571",
+    "school": "E.M. JOSE RAIMUNDO PEREIRA DE AZEVEDO",
+    "address": "Av. 02 S/N  - Feira VII, Feira de Santana - BA",
+    "provider": "USE TELECOM",
+    "sourceName": "3571 - Escola Mun. José Raimundo - Predio Principal",
+    "matchMethod": "Número de Conta",
+    "matchScore": 1
+  },
+  {
+    "schoolId": 85,
+    "account": "3293",
+    "school": "E.M. JOVINIANO CORDEIRO VITORIO",
+    "address": "Fazenda Piabas - Tiquaruçu",
+    "provider": "PLUGAR TELECON",
+    "sourceName": "Escola Mun. Joviniano Cordeiro Vitorio",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 0.765
+  },
+  {
+    "schoolId": 86,
+    "account": "3369",
+    "school": "E.M. LUIS ALBERTO DA ASSOCIACAO",
+    "address": "R. Brumado, 77 - Jardim Cruzeiro,",
+    "provider": "NETFSA",
+    "sourceName": "Escola Luis Alberto da Associacao Uniao e Força",
+    "matchMethod": "Nome compatível revisado",
+    "matchScore": 0.99
+  },
+  {
+    "schoolId": 87,
+    "account": "3230",
+    "school": "E.M. MANOEL CHRISTO PLANZO",
+    "address": "Rua Sublime - Campo do Gado",
+    "provider": "PLUGAR TELECON",
+    "sourceName": "Centro Municipal Manoel de Christo Planzo",
+    "matchMethod": "Nome compatível revisado",
+    "matchScore": 0.99
+  },
+  {
+    "schoolId": 88,
+    "account": "3476",
+    "school": "E.M. MARIA AMALIA MARTINS DALTRO COELHO",
+    "address": "Povoado de Mantida - Jaiba",
+    "provider": "PLUGAR TELECON",
+    "sourceName": "Escola Mun. Maria Amalia Martins Daltro",
+    "matchMethod": "Nome compatível revisado",
+    "matchScore": 0.99
+  },
+  {
+    "schoolId": 89,
+    "account": "3462",
+    "school": "E.M. MARIA DE LOURDES ALMEIDA MACHADO",
+    "address": "BR-116, km 07 - Maria Quitéria",
+    "provider": "WI-NET",
+    "sourceName": "Escola Mun.Maria De Lourdes Almeida Machado",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 0.829
+  },
+  {
+    "schoolId": 90,
+    "account": "3341",
+    "school": "E.M. MARIA DE LOURDES PELLEGRINI F.S.",
+    "address": "Avenida, R. Tres Riachos - Nova Esperança",
+    "provider": "WI-NET",
+    "sourceName": "Escola Municipal Maria de Lourdes Pellegrini Freitas Silva",
+    "matchMethod": "Nome compatível revisado",
+    "matchScore": 0.99
+  },
+  {
+    "schoolId": 91,
+    "account": "3359",
+    "school": "E.M. ODETE DE OLIVEIRA",
+    "address": "R. Heráclito Dias de Carvalho - Pampalona,",
+    "provider": "NETFSA",
+    "sourceName": "Escola Municipal Professora Odete de Oliveira Almeida",
+    "matchMethod": "Nome compatível revisado",
+    "matchScore": 0.99
+  },
+  {
+    "schoolId": 92,
+    "account": "3226",
+    "school": "E.M. OLHOS DÁGUA DAS MOÇAS",
+    "address": "Estra. da Lagoa Salgada, Dist. Matinha",
+    "provider": "PLUGAR TELECON",
+    "sourceName": "Escola Mun. Olhos D'Água das Moças",
+    "matchMethod": "Nome compatível revisado",
+    "matchScore": 0.99
+  },
+  {
+    "schoolId": 94,
+    "account": "3307",
+    "school": "E.M. OTAVIO MANSUR",
+    "address": "Rua Dr Elpidio Nova",
+    "provider": "LINKNET",
+    "sourceName": "Escola Mun. Otavio Mansur de Carvalho",
+    "matchMethod": "Nome compatível revisado",
+    "matchScore": 0.99
+  },
+  {
+    "schoolId": 95,
+    "account": "3558",
+    "school": "E.M. PROF. EDELVIRA OLIVEIRA",
+    "address": "R. Rio Grande do Norte, 76 - Queimadinha,",
+    "provider": "USE TELECOM",
+    "sourceName": "Escola Municipal Edelvira D Oliveira",
+    "matchMethod": "Nome compatível revisado",
+    "matchScore": 0.99
+  },
+  {
+    "schoolId": 96,
+    "account": "3424",
+    "school": "E.M. PROF. ELI QUEIROZ DE OLIVEIRA",
+    "address": "Tv. Bartolomeu de Gusmão, 376-378 - Gabriela, Feira de Santana - BA, 44030",
+    "provider": "USE TELECOM",
+    "sourceName": "3424 - Escola Mun. Eli Queiroz",
+    "matchMethod": "Número de Conta",
+    "matchScore": 1
+  },
+  {
+    "schoolId": 97,
+    "account": "3396",
+    "school": "E.M. PROF. OSCAR DAMIAO DE ALMEIDA",
+    "address": "Rua A Conjunto Airton Sena - Mangabeira,",
+    "provider": "NETFSA",
+    "sourceName": "Escola Municipal Oscar Damiao de Almeida",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 0.796
+  },
+  {
+    "schoolId": 98,
+    "account": "3450",
+    "school": "E.M. REGINA VITAL",
+    "address": "R. Três Pinheiros - Campo Limpo, Feira de Santana - BA, 44032-508",
+    "provider": "USE TELECOM",
+    "sourceName": "3450 - Escola Mun. Regina Vital",
+    "matchMethod": "Número de Conta",
+    "matchScore": 1
+  },
+  {
+    "schoolId": 99,
+    "account": "3336",
+    "school": "E.M. THELMA CARNEIRO",
+    "address": "R. B - Muchila, Feira de Santana - BA, 40301-110\"",
+    "provider": "USE TELECOM",
+    "sourceName": "3336 - Escola Mun. Thelma Carneiro",
+    "matchMethod": "Número de Conta",
+    "matchScore": 1
+  },
+  {
+    "schoolId": 100,
+    "account": "3489",
+    "school": "E.M. TIMOTEO DUARTE",
+    "address": "Matinha, Feira de Santana - BA",
+    "provider": "PLUGAR TELECON",
+    "sourceName": "Escola Mun. Timoteo Moreira Duarte",
+    "matchMethod": "Nome compatível revisado",
+    "matchScore": 0.99
+  },
+  {
+    "schoolId": 101,
+    "account": "3356",
+    "school": "E.M. VITORIANO TOMAS BISPO",
+    "address": "Fazenda Garapa -",
+    "provider": "DE SÁ",
+    "sourceName": "Escola Municipal Vitoriano Tomas Bispo",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 0.759
+  },
+  {
+    "schoolId": 103,
+    "account": "3459",
+    "school": "EM. CORIOLANO CARVALHO",
+    "address": "R. Humaitá, S/N - Centro,",
+    "provider": "BRISANET",
+    "sourceName": "Colegio Municipal Coriolano Carvalho",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 0.797
+  },
+  {
+    "schoolId": 104,
+    "account": "3330",
+    "school": "EM. DOIS DE JULHO",
+    "address": "Rua Martiniano Freire - Dist. Jaiba",
+    "provider": "BRISANET",
+    "sourceName": "Escola Municipal Dois de Julho",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 0.831
+  },
+  {
+    "schoolId": 105,
+    "account": "3312",
+    "school": "EM. MONTEIRO LOBATO",
+    "address": "R. José Pereira Mascarenhas - Capuchinhos, - BA, 44076-310",
+    "provider": "USE TELECOM",
+    "sourceName": "3312 - Escola Mun. Monteiro Lobato",
+    "matchMethod": "Número de Conta",
+    "matchScore": 1
+  },
+  {
+    "schoolId": 106,
+    "account": "3432",
+    "school": "EMEI ALDA MARQUES",
+    "address": "Tv. Bruxelas - Santa Monica",
+    "provider": "NETFSA",
+    "sourceName": "Escola Municipal Alda Marques",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 1
+  },
+  {
+    "schoolId": 107,
+    "account": "3240",
+    "school": "EMEI ANTONIO ALBERTINO CARNEIRO",
+    "address": "Rua Antonio Rubens",
+    "provider": "LINKNET",
+    "sourceName": "Escola Mun. Albertino Carneiro",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 0.758
+  },
+  {
+    "schoolId": 108,
+    "account": "3242",
+    "school": "EMEI EVALDO GOMES MARTINS",
+    "address": "R. Bravo, 139-b - Gabriela",
+    "provider": "BRISANET",
+    "sourceName": "Escola Municipal Evaldo Gomes Martins",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 1
+  },
+  {
+    "schoolId": 109,
+    "account": "3482",
+    "school": "EMEI MAE DOS HUMILDES",
+    "address": "R. Dr. Olímpio Vital - Centro,",
+    "provider": "WI-NET",
+    "sourceName": "Escola Municipal Mae Dos Humildes",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 1
+  },
+  {
+    "schoolId": 110,
+    "account": "3332",
+    "school": "EMEI VOVO ZEZA",
+    "address": "Rua Belo Horizonte, 283 – Jardim Acácia",
+    "provider": "USE TELECOM",
+    "sourceName": "3332 - Creche Mun. Vovó Zêza",
+    "matchMethod": "Número de Conta",
+    "matchScore": 1
+  },
+  {
+    "schoolId": 111,
+    "account": "3389",
+    "school": "EMEI. AMPARO AS CRIANÇAS",
+    "address": "Rua Morrinho, 435 - Mangabeira",
+    "provider": "NETFSA",
+    "sourceName": "Escola Municipal Amparo as Criancas",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 1
+  },
+  {
+    "schoolId": 112,
+    "account": "3203",
+    "school": "EMEI. ASSOCIAÇÃO CRISTA FEMININA",
+    "address": "Avenida Maria Quitéria, 3701 - São João",
+    "provider": "USE TELECOM",
+    "sourceName": "3203 - Escola Mun. Associação Cristã Feminina",
+    "matchMethod": "Número de Conta",
+    "matchScore": 1
+  },
+  {
+    "schoolId": 113,
+    "account": "3448",
+    "school": "EMEI. CORIOLANO F. DE CARVALHO",
+    "address": "Praça Catarino Brito dos Santos - Queimadinha",
+    "provider": "LINKNET",
+    "sourceName": "Escola Mun. Coriolano Farias de Carvalho",
+    "matchMethod": "Nome compatível revisado",
+    "matchScore": 0.99
+  },
+  {
+    "schoolId": 114,
+    "account": "3364",
+    "school": "EMEI. JOSE MARTINS RIOS",
+    "address": "Av. Padre José de Anchieta - Rua Nova",
+    "provider": "USE TELECOM",
+    "sourceName": "Escola Municipal Jose Martins Rios",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 1
+  },
+  {
+    "schoolId": 115,
+    "account": "3437",
+    "school": "EMEI. JUDITE ALENCAR MARINHO",
+    "address": "R. Senai - Campo Limpo",
+    "provider": "NETFSA",
+    "sourceName": "Escola Municipal Judite Alencar Marinho",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 1
+  },
+  {
+    "schoolId": 116,
+    "account": "3299",
+    "school": "EMEI. MARINA CARVALHO",
+    "address": "R. Politeama, 286 - 35º BI,",
+    "provider": "USE TELECOM",
+    "sourceName": "Escola Municipal Marina Carvalho",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 1
+  },
+  {
+    "schoolId": 117,
+    "account": "3323",
+    "school": "EMEI. RUBEM CERQUEIRA TEIXEIRA",
+    "address": "Rua Medeiros Neto, 760 – Tomba",
+    "provider": "USE TELECOM",
+    "sourceName": "3323 - Escola Mun. Rubem Cerqueira Teixeira",
+    "matchMethod": "Número de Conta",
+    "matchScore": 1
+  },
+  {
+    "schoolId": 118,
+    "account": "3398",
+    "school": "EMEI. TIA ANA LUCIA",
+    "address": "R. Antônio da Silva Lima, 75 - Cidade Nova",
+    "provider": "BRISANET",
+    "sourceName": "Escola Municipal Tia Ana Lucia",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 1
+  },
+  {
+    "schoolId": 119,
+    "account": "3334",
+    "school": "ESCOLA MUN. ANA MARIA ALVES DOS SANTOS",
+    "address": "R. A - Muchila, Feira de Santana",
+    "provider": "NETFSA",
+    "sourceName": "Escola Municipal Ana Maria Alves Dos Santos",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 1
+  },
+  {
+    "schoolId": 120,
+    "account": "3303",
+    "school": "ESCOLA MUN. CELSO RIBEIRO DALTRO",
+    "address": "Rua Francisco Amaral n 3700 - Queimadinha",
+    "provider": "LINKNET",
+    "sourceName": "Escola Mun. Celso Ribeiro Daltro",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 1
+  },
+  {
+    "schoolId": 121,
+    "account": "3338",
+    "school": "ESCOLA MUN. DOUTOR NANTES BELLAS VIEIRA",
+    "address": "Rua Bem-Te-Vi - Pedra do Descanso,",
+    "provider": "WI-NET",
+    "sourceName": "Escola Municipal Dr Nantes Bellas Vieira",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 1
+  },
+  {
+    "schoolId": 122,
+    "account": "3313",
+    "school": "ESCOLA MUN. DOUTOR NILTON BELLAS VIEIRA",
+    "address": "R. Virginopolis - Parque Getúlio Vargas,",
+    "provider": "BRISANET",
+    "sourceName": "Escola Mun. Doutor Nilton Bellas Vieira",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 1
+  },
+  {
+    "schoolId": 123,
+    "account": "3241",
+    "school": "ESCOLA MUN. ELIZABETH GOMES MARTINS",
+    "address": "Rua Z, n 21 - Gabriela,",
+    "provider": "BRISANET",
+    "sourceName": "Escola Municipal Elizabeth Gomes Martins",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 1
+  },
+  {
+    "schoolId": 124,
+    "account": "3353",
+    "school": "ESCOLA MUN. HONORINA OLIVEIRA AMOR",
+    "address": "Rua Mimoso, 25 Feira VII,",
+    "provider": "USE TELECOM",
+    "sourceName": "3353 - CEMEI Honorina Oliveira Amorim",
+    "matchMethod": "Número de Conta",
+    "matchScore": 1
+  },
+  {
+    "schoolId": 125,
+    "account": "3371",
+    "school": "ESCOLA MUN. MANOEL CUNDES FERREIRA",
+    "address": "Povoado Ovo da Ema",
+    "provider": "DE SÁ",
+    "sourceName": "Escola Municipal Manoel Cunes Ferreira",
+    "matchMethod": "Nome compatível revisado",
+    "matchScore": 0.99
+  },
+  {
+    "schoolId": 126,
+    "account": "3315",
+    "school": "ESCOLA MUN. MARIA DA GLORIA CARVALHO BAHIA",
+    "address": "R. Magrus Reata, 252  - 35BI",
+    "provider": "WI-NET",
+    "sourceName": "Escola Municipal Maria da Gloria Carvalho Bahia",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 1
+  },
+  {
+    "schoolId": 127,
+    "account": "3447",
+    "school": "ESCOLA MUN. PAI E MAE",
+    "address": "Av. Transnordestina,Campo Limpo,",
+    "provider": "BRISANET",
+    "sourceName": "Escola Mun. Pai E Mãe",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 1
+  },
+  {
+    "schoolId": 128,
+    "account": "3234",
+    "school": "ESCOLA MUN. PROF LUIZA CARMO DE JESUS",
+    "address": "R. B, 4 - Conceição,",
+    "provider": "NETFSA",
+    "sourceName": "Escola Municipal Professora Luiza Carmo de Jesus",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 1
+  },
+  {
+    "schoolId": 129,
+    "account": "3442",
+    "school": "ESCOLA MUN. PROF. HELENA ASSIS SUZART",
+    "address": "Rua Irã, n 149 CASEB",
+    "provider": "BRISANET",
+    "sourceName": "Escola Municipal Professora Helena Assis Suzarte",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 0.73
+  },
+  {
+    "schoolId": 130,
+    "account": "3316",
+    "school": "ESCOLA MUN. SANTO EXPEDITO",
+    "address": "Rua Agua Da Prata, 24 Parque Lagoa - Subaé,",
+    "provider": "WI-NET",
+    "sourceName": "Escola Mun. Santo Expedito",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 1
+  },
+  {
+    "schoolId": 131,
+    "account": "3366",
+    "school": "ESCOLA MUN. TEREZA CUNHA SANTANA",
+    "address": "Av. Tomé de Souza, Sn - Calumbi",
+    "provider": "NETFSA",
+    "sourceName": "Escola Municipal Tereza Cunha Santana",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 1
+  },
+  {
+    "schoolId": 132,
+    "account": "3446",
+    "school": "HORACIO SILVA BASTOS",
+    "address": "Rua Piracicaba, 220",
+    "provider": "LINKNET",
+    "sourceName": "Escola Mun. Horacio Silva Bastos",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 1
+  },
+  {
+    "schoolId": 134,
+    "account": "3385",
+    "school": "E. M. JOSE MARTINS DOS SANTOS",
+    "address": "Fazenda Rio do Peixe",
+    "provider": "RG NET TELECON",
+    "sourceName": "Escola Municipal José Martins dos Santos",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 0.796
+  },
+  {
+    "schoolId": 135,
+    "account": "3428",
+    "school": "E. M. EURIDES DE OLIVEIRA QUEIROZ",
+    "address": "Fazenda Boa Esperanca Dist. R. Humildes,",
+    "provider": "WI-NET",
+    "sourceName": "Escola Mun. Eurides de Oliveira Queiroz",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 0.8
+  },
+  {
+    "schoolId": 136,
+    "account": "Não informado",
+    "school": "ESCOLA MUNICIPAL PROFESSORA MARIA HELENA QUEIROZ",
+    "address": "R. Salmo 25 - - Tomba,",
+    "provider": "NETFSA",
+    "sourceName": "Escola Municipal Professora Maria Helena Queiroz",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 1
+  },
+  {
+    "schoolId": 137,
+    "account": "Não informado",
+    "school": "ESCOLA JOÃO PAULO II DA ASSOCIAÇÃO ANTONIO VIEIRA",
+    "address": "Avenida Bahia, s/n",
+    "provider": "LINKNET",
+    "sourceName": "Escola Mun. João Paulo II",
+    "matchMethod": "Nome compatível revisado",
+    "matchScore": 0.99
+  },
+  {
+    "schoolId": 159,
+    "account": "3455",
+    "school": "ESCOLA MUNICIPAL PARQUE BRASIL",
+    "address": "R. Murioca, 40 - Mangabeira",
+    "provider": "WI-NET",
+    "sourceName": "Escola Municipal Parque Brasil",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 1
+  },
+  {
+    "schoolId": 160,
+    "account": "Não informado",
+    "school": "ESCOLA MUNICIPAL JOÃO DURVAL CARNEIRO",
+    "address": "Av. João Durval Carneiro - Caseb, Feira de Santana - BA, 44052-004",
+    "provider": "USE TELECOM",
+    "sourceName": "3231 - Escola Mun. João Durval Carneiro",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 1
+  },
+  {
+    "schoolId": 161,
+    "account": "Não informado",
+    "school": "ESCOLA MUNICIPAL EURIDES FRANCO DE LACERDA",
+    "address": "Rua Parati, nº 01",
+    "provider": "NETFSA",
+    "sourceName": "Escola Municipal Eurides Franco de Lacerda",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 1
+  },
+  {
+    "schoolId": 162,
+    "account": "Não informado",
+    "school": "ESCOLA MUNICIPAL DOUTOR CICERO CARVALHO",
+    "address": "Perolina Angélica da Silva, 164 - Jardim Cruzeiro,",
+    "provider": "NETFSA",
+    "sourceName": "Escola Municipal Doutor Cicero Carvalho",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 1
+  },
+  {
+    "schoolId": 163,
+    "account": "Não informado",
+    "school": "ESCOLA MUNICIPAL ANTONIO ALVES LOPES",
+    "address": "Praça Principal S/N - Zona Urbana - Conj. Viveiros,",
+    "provider": "WI-NET",
+    "sourceName": "Escola Mun. Professor Antônio Alves Lopes",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 0.791
+  },
+  {
+    "schoolId": 165,
+    "account": "Não informado",
+    "school": "ESCOLA MONSENHOR MARIO PESSOA",
+    "address": "R. Brito, 100 - Cidade Nova",
+    "provider": "WI-NET",
+    "sourceName": "Escola Municipal Monsenhor Mário Pessoa",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 1
+  },
+  {
+    "schoolId": 166,
+    "account": "3525",
+    "school": "ESCOLA MUNICIPAL DOUTOR GAMALIEL",
+    "address": "R. Dona Adalgisa Santos Borge, 500 - Parque Panorama,",
+    "provider": "NETFSA",
+    "sourceName": "Escola Municipal Doutor Gamaliel",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 1
+  },
+  {
+    "schoolId": 167,
+    "account": "Não informado",
+    "school": "ESCOLA MUNICIPAL COMENDADOR JONATHAS TELLES DE CARVALHO",
+    "address": "R. da Penha - Conceição, 44043-390",
+    "provider": "WI-NET",
+    "sourceName": "Escola Mun. Jonathas Telles de Carvalho",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 0.832
+  },
+  {
+    "schoolId": 169,
+    "account": "Não informado",
+    "school": "ESCOLA MUNICIPAL DOUTOR CLOVIS RAMOS LIMA",
+    "address": "R. Arco Verde - Parque Ipe, Feira de Santana - BA, 44054-560",
+    "provider": "USE TELECOM",
+    "sourceName": "3294 - Escola Municipal Doutor Clovis Ramos Lima",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 1
+  },
+  {
+    "schoolId": 172,
+    "account": "Não informado",
+    "school": "ESCOLA MUNICIPAL PROFESSORA MARIA JOSE DANTAS CARNEIRO",
+    "address": "Rua Sao Valentim, 41 - Caseb,",
+    "provider": "WI-NET",
+    "sourceName": "Escola Municipal Professora Maria Jose Dantas Carneiro",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 1
+  },
+  {
+    "schoolId": 173,
+    "account": "Não informado",
+    "school": "ESCOLA MUNICIPAL REVERENDO SEVERINO SOARES",
+    "address": "R. Escalada, 37 - Gabriela,",
+    "provider": "NETFSA",
+    "sourceName": "Escola Reverendo Severino Soares",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 1
+  },
+  {
+    "schoolId": 174,
+    "account": "Não informado",
+    "school": "ESCOLA MUNICIPAL AGRARIO DE OLIVEIRA MELO",
+    "address": "KM 14 BR 116 Praça das Algarobas - Ipuaçu",
+    "provider": "PLUGAR TELECON",
+    "sourceName": "Escola Mun. Agrario de Oliveira Melo",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 1
+  },
+  {
+    "schoolId": 175,
+    "account": "Não informado",
+    "school": "ESCOLA MUNICIPAL DOUTOR JOAO DUARTE GUIMARAES",
+    "address": "Praca Do Limoeiro Distrito De Humildes",
+    "provider": "WI-NET",
+    "sourceName": "Escola Mun. Doutor Joao Duarte Guimaraes",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 1
+  },
+  {
+    "schoolId": 177,
+    "account": "Não informado",
+    "school": "CENTRO MUNICIPAL DE EDUCAÇÃO INFANTIL MANOEL ANCHIETA NERY DE SOUZA",
+    "address": "R. Botaguaçu, SN - Mangabeira, Feira de Santana - BA, 44057-126",
+    "provider": "USE TELECOM",
+    "sourceName": "3472 - CEMEI Infantil Manoel Anchieta Nery de Souza",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 0.773
+  },
+  {
+    "schoolId": 179,
+    "account": "Não informado",
+    "school": "ESCOLA MUNICIPAL JOSE TAVARES CARNEIRO",
+    "address": "R. Nossa Senhora da Conceição - Mª Quiteria",
+    "provider": "PLUGAR TELECON",
+    "sourceName": "Escola Mun. Jose Tavares Carneiro",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 1
+  },
+  {
+    "schoolId": 180,
+    "account": "Não informado",
+    "school": "ESCOLA MUNICIPAL RAUL RIBEIRO DE OLIVEIRA",
+    "address": "Fazenda Agua Grande Distrito - Maria Quitéria,",
+    "provider": "DE SÁ",
+    "sourceName": "Escola Municipal Raul Ribeiro de Oliveira",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 1
+  },
+  {
+    "schoolId": 183,
+    "account": "3431",
+    "school": "E. M. MARIA ESTHER FALCAO DE FREITAS",
+    "address": "Fazenda campestre, distrito de - Humildes,",
+    "provider": "WI-NET",
+    "sourceName": "Escola Mun. Maria Esther Falcao de Freitas",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 0.828
+  },
+  {
+    "schoolId": 184,
+    "account": "Não informado",
+    "school": "CENTRO DE EDUCACAO BASICA DA UEFS",
+    "address": "Av. Transnordestina - Novo Horizonte, Feira de Santana - BA, 44036-900",
+    "provider": "USE TELECOM",
+    "sourceName": "3444 - Centro de Educação basica da UEFS",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 1
+  },
+  {
+    "schoolId": 186,
+    "account": "Não informado",
+    "school": "ESCOLA MUNICIPAL ISAIAS RIBEIRO DE OLIVEIRA",
+    "address": "Fazenda Lagoa D'água",
+    "provider": "RG NET TELECON",
+    "sourceName": "Escola Municipal Isaias Ribeiro de Oliveira",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 1
+  },
+  {
+    "schoolId": 188,
+    "account": "3425",
+    "school": "CMEI IRMA ROSA DE LIMA",
+    "address": "Rua Chana",
+    "provider": "LINKNET",
+    "sourceName": "Escola Mun. Irma Rosa de Lima Caribé",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 0.831
+  },
+  {
+    "schoolId": 189,
+    "account": "3539",
+    "school": "CMEI PROFESSOR EDIVALDO MACHADO BOAVENTURA",
+    "address": "Rua Itatiaia, Conceição",
+    "provider": "NETFSA",
+    "sourceName": "Escola Municipal Prof. Edvaldo Machado Boaventura",
+    "matchMethod": "Nome compatível revisado",
+    "matchScore": 0.99
+  },
+  {
+    "schoolId": 190,
+    "account": "3301",
+    "school": "CMEI EDUARDA OLIVEIRA FRANCA",
+    "address": "Rua Marilândia, Conceição",
+    "provider": "NETFSA",
+    "sourceName": "Escola Municipal Eduarda Oliveira França",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 1
+  },
+  {
+    "schoolId": 191,
+    "account": "3391",
+    "school": "CMEI HUGO NAVARRO SILVA",
+    "address": "R. Condor - Muchila,",
+    "provider": "USE TELECOM",
+    "sourceName": "3391 - Escola Municipal Hugo Navarro Silva",
+    "matchMethod": "Número de Conta",
+    "matchScore": 1
+  },
+  {
+    "schoolId": 192,
+    "account": "3298",
+    "school": "CMEI JOSÉ DA COSTA FALCÃO",
+    "address": "Rua Ipaumirim - Sim,",
+    "provider": "BRISANET",
+    "sourceName": "Centro Municipal de  Jose da Costa Falcao",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 0.869
+  },
+  {
+    "schoolId": 193,
+    "account": "3290",
+    "school": "CMEI LUZIA DE ALMEIDA SOUZA",
+    "address": "Rua Lopes - Brasilia",
+    "provider": "NETFSA",
+    "sourceName": "Escola Municipal Luzia De A Souza",
+    "matchMethod": "Nome compatível revisado",
+    "matchScore": 0.99
+  },
+  {
+    "schoolId": 194,
+    "account": "3404",
+    "school": "CMEI VANILDA BARROS BOAVENTURA",
+    "address": "Rua Gonçalo Alves - Rua Nova",
+    "provider": "NETFSA",
+    "sourceName": "Escola Municipal Vanilda Barraos Boaventura",
+    "matchMethod": "Nome compatível revisado",
+    "matchScore": 0.99
+  },
+  {
+    "schoolId": 195,
+    "account": "3572",
+    "school": "COLÉGIO MUNICIPAL WILSON FALCÃO",
+    "address": "Rua dos Expedicionários - Pedra do Descanso,- BA, 40301-110",
+    "provider": "USE TELECOM",
+    "sourceName": "3572 - Escola Mun. Wilson Falcão",
+    "matchMethod": "Número de Conta",
+    "matchScore": 1
+  },
+  {
+    "schoolId": 196,
+    "account": "3460",
+    "school": "E. M. ACIOLY SILVA ARAUJO",
+    "address": "R. Condor - Muchila,",
+    "provider": "WI-NET",
+    "sourceName": "Escola Municipal Acioly Silva Araujo",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 0.756
+  },
+  {
+    "schoolId": 197,
+    "account": "3467",
+    "school": "E. M. ANDRE CUSTODIO FERREIRA",
+    "address": "Praça do Socorro",
+    "provider": "PLUGAR TELECON",
+    "sourceName": "Escola Mun. André Custordio Ferreira",
+    "matchMethod": "Nome compatível revisado",
+    "matchScore": 0.99
+  },
+  {
+    "schoolId": 198,
+    "account": "3469",
+    "school": "E. M. ARTUR SANTIAGO DA MOTA",
+    "address": "Vila Jaqueira Distrito Tiquaruçu",
+    "provider": "PLUGAR TELECON",
+    "sourceName": "Escola Mun. Arthur Santiago da Mota",
+    "matchMethod": "Nome compatível revisado",
+    "matchScore": 0.99
+  },
+  {
+    "schoolId": 199,
+    "account": "3410",
+    "school": "E. M. BEATRIZ BISPO MIRANDA",
+    "address": "Fazenda Moita da Onça - Dist. Matinha",
+    "provider": "LINKNET",
+    "sourceName": "Escola Mun. Beatriz Bispo Miranda",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 0.759
+  },
+  {
+    "schoolId": 200,
+    "account": "3402",
+    "school": "E. M. CRISPINIANO FERREIRA DA SILVA",
+    "address": "Povoado Olhos Dagua Das Moças - Matinha,",
+    "provider": "PLUGAR TELECON",
+    "sourceName": "Escola Mun. Crispiniano Ferreira da Silva",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 0.802
+  },
+  {
+    "schoolId": 201,
+    "account": "3413",
+    "school": "E. M. DEOCLECIANO MARTINS DA SILVA",
+    "address": "Povoado Pé de Serra",
+    "provider": "DE SÁ",
+    "sourceName": "Escola Municipal Deocleciano Martins da Silva",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 0.801
+  },
+  {
+    "schoolId": 202,
+    "account": "Não informado",
+    "school": "E. M. DOUTOR ALBERTO OLIVEIRA",
+    "address": "R. H - Muchila,",
+    "provider": "NETFSA",
+    "sourceName": "Escola Municipal Doutor Alberto Oliveira",
+    "matchMethod": "Nome compatível revisado",
+    "matchScore": 0.99
+  },
+  {
+    "schoolId": 203,
+    "account": "3352",
+    "school": "E. M. DOUTOR ANTONIO DE FREITAS BORJA",
+    "address": "BR 116 Norte - Mª Quiteria",
+    "provider": "PLUGAR TELECON",
+    "sourceName": "Escola Mun. Doutor Antonio de Freitas Borja",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 0.797
+  },
+  {
+    "schoolId": 204,
+    "account": "3292",
+    "school": "E. M. DOUTOR DEMOSTHENES ALVARO DE BRITO",
+    "address": "Rua Ibiapina - Mangabeira",
+    "provider": "NETFSA",
+    "sourceName": "Escola Municipal Doutor Demosthenes Alvaro de Brito",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 0.8
+  },
+  {
+    "schoolId": 205,
+    "account": "3499",
+    "school": "E. M. DOUTOR NOIDE CERQUEIRA",
+    "address": "Tv do senai- Campo limpo",
+    "provider": "NETFSA",
+    "sourceName": "Escola Municipal Doutor Noide Cerqueira",
+    "matchMethod": "Nome compatível revisado",
+    "matchScore": 0.99
+  },
+  {
+    "schoolId": 206,
+    "account": "3483",
+    "school": "E. M. DR. COLBERT MARTINS DA SILVA",
+    "address": "Rua Padre Carlos,- Dist. Jaguara,",
+    "provider": "RG NET TELECON",
+    "sourceName": "Escola Municipal Dr Colbert martins da Silva",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 0.797
+  },
+  {
+    "schoolId": 207,
+    "account": "3484",
+    "school": "E. M. ELIAS SANTOS OLIVEIRA",
+    "address": "Povoado Sete Portas, Dist. de Jaguara",
+    "provider": "RG NET TELECON",
+    "sourceName": "3484 - Escola Mun. Elias Santos Oliveira",
+    "matchMethod": "Número de Conta",
+    "matchScore": 1
+  },
+  {
+    "schoolId": 208,
+    "account": "Não informado",
+    "school": "E. M. FIRMINO JOSE DE BRITO",
+    "address": "Povoado Morrinho, Dist. Jaguara",
+    "provider": "RG NET TELECON",
+    "sourceName": "Escola Municipal Firmino Jose de Brito",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 0.794
+  },
+  {
+    "schoolId": 209,
+    "account": "3407",
+    "school": "E. M. JOAQUIM PEREIRA DOS SANTOS",
+    "address": "Camimho Candeal, Dist. Matinha",
+    "provider": "PLUGAR TELECON",
+    "sourceName": "Escola Mun. Joaquim Pereira dos Santos",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 0.8
+  },
+  {
+    "schoolId": 210,
+    "account": "3478",
+    "school": "E. M. MANOEL AVELINO",
+    "address": "Fazenda Bordao Distrito Tiquaruçu",
+    "provider": "PLUGAR TELECON",
+    "sourceName": "Escola Mun. Manoel Avelino",
+    "matchMethod": "Nome compatível revisado",
+    "matchScore": 0.99
+  },
+  {
+    "schoolId": 211,
+    "account": "3468",
+    "school": "E. M. MARCELINO JOSE COUTINHO",
+    "address": "Povoado da Caatinga - Tiquaruçu",
+    "provider": "PLUGAR TELECON",
+    "sourceName": "Escola Mun. Marcelino José Coutinho",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 0.762
+  },
+  {
+    "schoolId": 213,
+    "account": "3461",
+    "school": "E. M. MARIA DAS GRACAS MENDONCA",
+    "address": "Fazenda Passagem, Dist. Jaguara",
+    "provider": "RG NET TELECON",
+    "sourceName": "Escola Municipal Maria das Graças Mendonça",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 0.799
+  },
+  {
+    "schoolId": 214,
+    "account": "3440",
+    "school": "E. M. N. SENHORA DO PERPETUO SOCORRO",
+    "address": "Rua Orlândia, Tomba",
+    "provider": "NETFSA",
+    "sourceName": "Escola Municipal Nossa Senhora do Perpetuo Socorro",
+    "matchMethod": "Nome compatível revisado",
+    "matchScore": 0.99
+  },
+  {
+    "schoolId": 215,
+    "account": "3223",
+    "school": "E. M. NOSSA SENHORA DAS CANDEIAS",
+    "address": "Estr. do Calundu, 5295 - Distrito De Humildes",
+    "provider": "WI-NET",
+    "sourceName": "Escola Municipal Nossa Senhora Das Candeias",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 0.8
+  },
+  {
+    "schoolId": 216,
+    "account": "3477",
+    "school": "E. M. PROF JULIETA FRUTUOSO DE ARAUJO",
+    "address": "Travessa Lucio Cerqueira, Dist. Tiquaruçu",
+    "provider": "PLUGAR TELECON",
+    "sourceName": "Escola Mun. Julieta Futuosos de Araujo",
+    "matchMethod": "Nome compatível revisado",
+    "matchScore": 0.99
+  },
+  {
+    "schoolId": 218,
+    "account": "3401",
+    "school": "E.M ANTONIO JULIO DA SILVA",
+    "address": "Fazenda Olhos D'água da Formiga  - Dist Maria Quiteria",
+    "provider": "DE SÁ",
+    "sourceName": "Escola Municipal Antônio Julio da Silva",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 0.795
+  },
+  {
+    "schoolId": 219,
+    "account": "3491",
+    "school": "E.M. ANIZIO PEREIRA BERNARDES",
+    "address": "Avenida Anizio Pereira - Dist. Matinha",
+    "provider": "PLUGAR TELECON",
+    "sourceName": "Escola Mun. Anizio Pereira Bernardes",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 0.763
+  },
+  {
+    "schoolId": 220,
+    "account": "3480",
+    "school": "E.M. ANTONIO CARNEIRO LAGO",
+    "address": "Povoado Morrinho, Dist. Jaguara",
+    "provider": "RG NET TELECON",
+    "sourceName": "Escola Municipal Antônio Carneiro Lago",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 0.759
+  },
+  {
+    "schoolId": 221,
+    "account": "3327",
+    "school": "E.M. JOAO MARINHO",
+    "address": "R. Prof. Antônio Garcia, 86 - Olhos D'agua,",
+    "provider": "WI-NET",
+    "sourceName": "Escola Municipal João Marinho Falcão",
+    "matchMethod": "Nome compatível revisado",
+    "matchScore": 0.99
+  },
+  {
+    "schoolId": 222,
+    "account": "3317",
+    "school": "EM. MONSENHOR JESSE TORRES CUNHA",
+    "address": "R. Santa Teresinha, 100A - Aviário",
+    "provider": "WI-NET",
+    "sourceName": "Escola Municipal Monsenhor Jesse Torres Cunha",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 0.877
+  },
+  {
+    "schoolId": 223,
+    "account": "3395",
+    "school": "EMEI MAOS UNIDAS",
+    "address": "Rua Paragominas, n185 Mangabeira",
+    "provider": "NETFSA",
+    "sourceName": "Escola Municipal Mãos Unidas",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 1
+  },
+  {
+    "schoolId": 224,
+    "account": "3427",
+    "school": "EMEI. PROF. DALVA SUZART GOMES",
+    "address": "R. I - Papagaio, Feira de Santana",
+    "provider": "NETFSA",
+    "sourceName": "Escola Municipal Dalva Suzart Gomes",
+    "matchMethod": "Nome normalizado",
+    "matchScore": 1
+  },
+  {
+    "schoolId": 225,
+    "account": "3311",
+    "school": "ESCOLA MUN. AUREO DE OLIVEIRA FILHO",
+    "address": "Trav, R. Felinto Marquês de Cerqueira - Capuchinhos,",
+    "provider": "USE TELECOM",
+    "sourceName": "3311 - Escola Mun. Aureo de Oliveira Filho",
+    "matchMethod": "Número de Conta",
+    "matchScore": 1
+  }
+]
